@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I have nothing to write here but that's a cool little feature.
+
 <!--
 **JulesPrimo/JulesPrimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
